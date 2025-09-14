@@ -1,0 +1,12 @@
+opencv-python
+face_recognition
+numpy
+gTTS
+pyaudio
+SpeechRecognition
+scikit-learn
+cryptography
+librosa
+requests
+# pyarmor gen -r -i cloud_upload.py -o dist/
+
