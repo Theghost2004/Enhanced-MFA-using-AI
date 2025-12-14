@@ -36,7 +36,7 @@ def show_banner():
     console.print(lock_art)
 
     typewriter("\n🔐  SecureAuthOS - Biometric Security System")
-    typewriter("🛡️   Developed by Kartik Rawal\n")
+    # typewriter("🛡️   Developed by Kartik Rawal\n")
     time.sleep(0.5)
 
 show_banner()
