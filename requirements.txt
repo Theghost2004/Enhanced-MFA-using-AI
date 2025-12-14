@@ -8,5 +8,9 @@ scikit-learn
 cryptography
 librosa
 requests
+pyttsx3
+rich
+sounddevice
+
 # pyarmor gen -r -i cloud_upload.py -o dist/
 
